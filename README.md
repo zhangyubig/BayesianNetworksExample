@@ -1,3 +1,5 @@
+https://nbviewer.jupyter.org/<br/>
+<br/>
 https://towardsdatascience.com/introduction-to-bayesian-networks-81031eeed94e<br/>
 https://www.bayesserver.com/docs/introduction/bayesian-networks<br/>
 https://www.edureka.co/blog/bayesian-networks/<br/>
