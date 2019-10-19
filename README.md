@@ -11,3 +11,5 @@ https://www.edureka.co/blog/naive-bayes-tutorial/<br/>
 https://iter01.com/2593.html<br/>
 https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3<br/>
 https://www.ritchieng.com/machine-learning-gaussian-naive-bayes/<br/>
+https://archive.ics.uci.edu/ml/datasets/Heart%2BDisease<br/>
+https://github.com/angad664/Automation-Cardio-Hospital/blob/master/clevelanda.csv<br/>
